@@ -1,1 +1,1 @@
-echo "Testing sample01 project - 7"
+echo "Testing sample01 project - 8"
